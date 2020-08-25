@@ -1689,7 +1689,7 @@ padding-top: 3px;
 	.flexslider .slide-caption {
 		width: 90%; 
 		padding: 2%; 
-		position: auto; 
+		position: absolute; 
 		left: 0; 
 		bottom: -40px; 
 	}
@@ -1758,7 +1758,7 @@ padding-top: 3px;
 	}
 
 	.flexslider .flex-caption {
-		display: auto;
+		display:none;
 	}
 
 
