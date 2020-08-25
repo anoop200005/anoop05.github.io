@@ -1756,8 +1756,11 @@ padding-top: 3px;
 	.search{
 		float:left;
 	}
-
-	.flexslider .flex-caption {
+    .flex-caption{
+		font-size:15px;
+	}
+	.flexslider{
+	
 		display:none;
 	}
 
